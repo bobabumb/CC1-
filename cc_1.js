@@ -35,3 +35,12 @@ console.log(accountBalance); // 500
 let customerName = "Commander Cody";
 let welcomeMessage = "Welcome back " + customerName + ", FOR THE REPUBLIC!";
 console.log(welcomeMessage); // Welcome back Commander Cody, FOR THE REPUBLIC!
+
+//task 5 : boolean data type
+let isLoggedIn = true;
+let hasAccess = isLoggedIn && true; 
+if(hasAccess) {
+    console.log("ACCESS GRANTED");
+} else {
+    console.log(ACCESS DENIED)
+}
