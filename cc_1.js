@@ -30,3 +30,8 @@ accountBalance *= 2;
 console.log(accountBalance); // 2000
 accountBalance /= 4;
 console.log(accountBalance); // 500
+
+//task 4 : string data types
+let customerName = "Commander Cody";
+let welcomeMessage = "Welcome back " + customerName + ", FOR THE REPUBLIC!";
+console.log(welcomeMessage); // Welcome back Commander Cody, FOR THE REPUBLIC!
