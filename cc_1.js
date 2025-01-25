@@ -42,5 +42,5 @@ let hasAccess = isLoggedIn && true;
 if(hasAccess) {
     console.log("ACCESS GRANTED");
 } else {
-    console.log(ACCESS DENIED)
+    console.log("ACCESS DENIED")
 }
